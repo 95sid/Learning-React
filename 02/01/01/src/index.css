@@ -1,0 +1,12 @@
+
+/* NORMAL NATIVE CSS
+   SCSS
+   INLINE CSS
+   COMPONENT LIBRARIES - MATERIAL UI,ANT DESIGN,CHAKRA, BASE UI
+   STYLED COMOPONENTS
+   TAILWIND CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
